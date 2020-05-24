@@ -1,5 +1,6 @@
 # Programming2020_Project
-Project for the Programming course, MScF Hec Lausanne 
+Project for the Programming course, MScF Hec Lausanne
+=============================================================================
 Note: the following packages will be needed
 {tkinter; PIL; numpy; os; sys; re; winsound; random; threading}
 in order to install them run the python command: pip install *packages_name*
